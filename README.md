@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://moeenulislam.netlify.app/](https://moeenulislam.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://moeen.netlify.app/](https://moeen.netlify.app/)
 
-- 📝 I regularly write articles on [https://moeenulislam.netlify.app/blogs.html](https://moeenulislam.netlify.app/blogs.html)
+- 📝 I regularly write articles on [https://moeen.netlify.app/blogs.html](https://moeen.netlify.app/blogs.html)
 
 - 💬 Ask me about **NodeJS, ExpressJS**
 

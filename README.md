@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://moeen.netlify.app/](https://moeen.netlify.app/)
 
-- 📝 I regularly write articles on [https://moeen.netlify.app/blogs.html](https://moeen.netlify.app/blogs.html)
+- 📝 I regularly write articles on [https://moeen.hashnode.dev](https://moeen.hashnode.dev)
 
 - 💬 Ask me about **NodeJS, ExpressJS**
 
 - 📫 How to reach me **moeenulislam786@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/yu8mhj7j](https://tinyurl.com/yu8mhj7j)
+- 📄 Know about my experiences ([tinyurl.com/2p9hjn8r](https://tinyurl.com/2p9hjn8r))
 
 - ⚡ Fun fact **I like travelling, cooking, socializing!**
 

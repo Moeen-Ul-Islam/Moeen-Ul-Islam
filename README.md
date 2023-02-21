@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **moeenulislam786@gmail.com**
 
-- 📄 Know about my experiences ([tinyurl.com/2p9hjn8r](https://tinyurl.com/2p9hjn8r))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1IbV9BUQCHFFKeJSPdsU2bTGd3EcePCiV/view?usp=sharing))
 
 - ⚡ Fun fact **I like travelling, cooking, socializing!**
 

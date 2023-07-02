@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Moeen</h1>
 <h3 align="center">Aspiring Fullstack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeen-ul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="moeen-ul-islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeen-ul-islam" alt="moeen-ul-islam" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/moeenulislam_" target="blank"><img src="https://img.shields.io/twitter/follow/moeenulislam_?logo=twitter&style=for-the-badge" alt="moeenulislam_" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://moeen.netlify.app/](https://moeen.netlify.app/)
-
-- 📝 I regularly write articles on [https://moeen.hashnode.dev](https://moeen.hashnode.dev)
-
-- 💬 Ask me about **NodeJS, ExpressJS**
-
-- 📫 How to reach me **moeenulislam786@gmail.com**
-
-- 📄 Know about my experiences ([https://drive.google.com/file/d/1IbV9BUQCHFFKeJSPdsU2bTGd3EcePCiV/view?usp=sharing))
-
-- ⚡ Fun fact **I like travelling, cooking, socializing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
